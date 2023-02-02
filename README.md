@@ -1,4 +1,4 @@
-![Output](https://github.com/TheBhuvan24/Movie-Site-React/blob/main/MoviVerse.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
